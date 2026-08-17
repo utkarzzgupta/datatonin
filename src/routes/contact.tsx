@@ -175,6 +175,12 @@ function ContactPage() {
               >
                 hello@datatonin.com
               </a>
+              <a
+                href="tel:+918736946491"
+                className="mt-2 block text-lg font-medium text-foreground transition-colors hover:text-primary"
+              >
+                +91 87369 46491
+              </a>
             </div>
             <div className="surface-card p-8">
               <p className="mono-label">What to include</p>

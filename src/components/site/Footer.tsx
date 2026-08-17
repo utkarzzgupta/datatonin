@@ -46,6 +46,12 @@ export function Footer() {
           >
             hello@datatonin.com
           </a>
+          <a
+            href="tel:+918736946491"
+            className="mt-2 block text-sm text-foreground transition-colors hover:text-primary"
+          >
+            +91 87369 46491
+          </a>
           <Link
             to="/contact"
             className="mt-6 block w-fit rounded-full border border-primary/40 bg-primary/10 px-4 py-2 text-sm font-medium text-primary transition-all hover:bg-primary/20"
